@@ -1,5 +1,5 @@
 {
-    "name": "madwizard/webauthn",
+    "name": "sebastiancx/webauthn",
     "description": "Web Authentication API server for PHP",
     "type": "library",
     "autoload": {
@@ -14,7 +14,7 @@
         }
     },
     "require": {
-        "php": "^7.2.0|^8.0",
+        "php": "^8.1",
         "sop/x509": "^0.7.0",
         "ext-openssl": "*",
         "ext-json": "*",
@@ -51,6 +51,10 @@
         {
             "name": "Thomas Bleeker",
             "email": "support@madwizard.org"
+        },
+        {
+            "name": "Sebastian Uhlig",
+            "email": "sebastian@uhlig.app"
         }
     ]
 }

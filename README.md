@@ -22,12 +22,12 @@ This library aims to implement the relying party server of the WebAuthn specific
 
 Installation via composer:
 ```bash
-composer require madwizard/webauthn
+composer require sebastiancx/webauthn
 ```
 
 ## Supported features
 
-- > PHP 7.2
+- > PHP 8.1
 - FIDO conformant library
 - Attestation types:
     - FIDO U2F
